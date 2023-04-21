@@ -1,0 +1,16 @@
+APRENDENDO GIT
+--------------------
+Iniciamos o codigo dando GIT INIT para poder criar um repositorio
+
+em seguida demos o GIT ADD "(nome do arquivo)" para poder colocar o nosso arquivo criado dentro da area de stading ou usar o GIT ADD . para mandar todos os arquivos e não um em especifico
+
+e depois demos o GIT COMMIT -M "(com a menssagem do comit)"
+----------------------------------------------------
+Usamos o GIT BRANCH -M "" para mudar a branch
+
+Usamos o GIT REMOTE ADD ORIGIN https://github.com/FraanHerrero/ProjetoGit.git serve para fazer a conexão local com o repositorio que estamos criando com o nome de origin
+
+Caso escreva o nome do repositorio errado posso usar o GIT REMOTE REMOVE ORIGIN
+
+usamos o git push -u origin main para fazer a conexão com o GitHub e dar o commit completo
+
